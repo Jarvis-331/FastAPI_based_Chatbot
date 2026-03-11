@@ -1,4 +1,4 @@
-```md
+
 # 🤖 LLM Chatbot (FastAPI + Groq + Streamlit)
 
 A clean and minimal end-to-end **LLM-based chatbot** built with **FastAPI** for the backend, **Groq LLM API** for inference, and **Streamlit** for the frontend UI.
